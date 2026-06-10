@@ -1,9 +1,7 @@
 ## EXPERIMENT NO: 4
 ## GENERATE THE PROMPT AND EVALUATE DIFFERENT PROMPT TYPES
 
-DATE: 26-05-2026
 
-REGISTER NUMBER: 212223040227
 ## AIM
 
 To write prompts for different prompt engineering types such as Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompt, Universal Prompt Structures, Prompt Refinements, and Prompt Size Limitations, compare them using different AI tools, and evaluate them using an evaluation method such as rubrics.
